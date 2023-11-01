@@ -6,3 +6,5 @@ maple syrup
 rice vinegar
 sambal oelek
 water
+
+*note all ingredients should be gluten free if possible
