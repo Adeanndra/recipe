@@ -1,3 +1,4 @@
+Let's begin!
 peanut sauce
 soy sauce
 ginger
@@ -8,3 +9,5 @@ sambal oelek
 water
 
 *note all ingredients should be gluten free if possible
+
+Enjoy my recipe!
