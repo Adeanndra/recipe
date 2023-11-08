@@ -9,5 +9,6 @@ In this recipe you will find
     <li>instructions</li>
     <li>a photo</li>
 </ol>
+ <img src="recipe.jpg" />   
 last line changed locally
 ### This is a REMOTE change :O
